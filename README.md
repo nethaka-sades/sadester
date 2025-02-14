@@ -1,2 +1,1 @@
-# sadester
-Official Web Portal for Sadester
+Sadester Project by Nethaka De Saram
